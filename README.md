@@ -1,16 +1,119 @@
-## Hi there 👋
+# 👋 Hello, I'm Allan Yoltic
 
-<!--
-**allanyoltic/allanyoltic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 QA Engineer in training | 🧠 Bionics Engineer | 🔬 Tech explorer  
+🚀 Passionate about automation, science, and real-world problem solving through technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I'm currently diving into software testing, automation, and data analysis.  
+With a background in bionics, I bring a deep understanding of biomechanics, electronics, and system behavior — and I'm excited about using that to bridge tech, health, and AI.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+- **Languages:** Python, C, MATLAB  
+- **QA Tools:** Pytest, Postman, Requests, Git  
+- **Other:** Arduino, GitHub, Markdown, Jupyter Notebooks
+
+---
+
+## 📦 Projects
+
+- 🧪 [Urban Grocers – API Test Suite](https://github.com/allanyoltic/urban-grocers-qa)  
+  QA automation project validating API fields using Pytest (Bootcamp Sprint 7)
+
+> More projects coming soon: data validation, automation scripts, and experimental bionics/AI crossovers
+
+---
+
+## 🌱 Current Learning Goals
+
+- Expand API and backend testing skills  
+- Transition into Data QA / AI + HealthTech  
+- Build bridges between engineering, data, and software quality  
+
+---
+
+## 🎯 Interests
+
+- QA & Automation  
+- HealthTech / Biotech  
+- Data Science
+- Game Developing  
+- Music, Languages
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [@allanyoltic](https://github.com/allanyoltic)  
+- **Email:** [bionics.allanyoltic@gmail.com]  
+- **LinkedIn:** [www.linkedin.com/in/allan-yoltic]
+
+---
+
+💬 _“QA is not just about testing — it’s about understanding how systems behave and making sure they do what they promise.”_
+
+---
+
+# 👋 Hola, soy Allan Yoltic
+
+🎯 Ingeniero QA en formación | 🧠 Ingeniero en Biónica | 🔬 Explorador tecnológico  
+🚀 Apasionado por la automatización, la ciencia y la resolución de problemas reales a través de la tecnología.
+
+---
+
+## 💡 Sobre Mí
+
+Actualmente estoy profundizando en pruebas de software, automatización y análisis de datos.  
+Con una formación en biónica, tengo una comprensión sólida de la biomecánica, la electrónica y el comportamiento de sistemas, y me entusiasma aplicar ese conocimiento para conectar la tecnología, la salud y la inteligencia artificial.
+
+---
+
+## 🧰 Tecnologías y Herramientas
+
+- **Lenguajes:** Python, C, MATLAB  
+- **Herramientas QA:** Pytest, Postman, Requests, Git  
+- **Otros:** Arduino, GitHub, Markdown, Jupyter Notebooks  
+
+---
+
+## 📦 Proyectos
+
+- 🧪 [Urban Grocers – Suite de Pruebas API](https://github.com/allanyoltic/urban-grocers-qa)  
+  Proyecto de automatización de pruebas para validar campos de una API usando Pytest (Sprint 7 del bootcamp)
+
+> Más proyectos en camino: validación de datos, automatización, y cruces experimentales entre biónica e inteligencia artificial
+
+---
+
+## 🌱 Objetivos de Aprendizaje
+
+- Expandir habilidades en pruebas de APIs y backend  
+- Transición hacia QA de Datos / IA + Tecnología en Salud  
+- Conectar ingeniería, datos y calidad de software
+
+---
+
+## 🎯 Intereses
+
+- QA y Automatización  
+- Tecnología Médica / Biotecnología  
+- Data Science
+- Desarrollo de videojuegos
+- Música, Idiomas
+
+---
+
+## 📫 Conectemos
+
+- **GitHub:** [@allanyoltic](https://github.com/allanyoltic)  
+- **Correo:** [bionics.allanyoltic@gmail.com]  
+- **LinkedIn:** [www.linkedin.com/in/allan-yoltic]  
+
+---
+
+💬 _“QA no se trata solo de hacer pruebas — se trata de entender cómo se comportan los sistemas y asegurarse de que cumplan lo que prometen.”_
