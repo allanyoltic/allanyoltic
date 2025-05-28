@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
+    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
     <td>
       <h2>👋 Hello, I'm Allan Yoltic!</h2>
       <p>
@@ -21,7 +21,7 @@
       I'm currently diving into software testing, automation, and data analysis. <br/> 
       With a background in bionics, I bring a deep understanding of biomechanics, electronics, and system behavior — and I'm excited about using that to bridge tech, health, and AI.
     </td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/></td>   
+    <td><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/></td>   
   </tr>
 </table>
 
@@ -79,7 +79,7 @@
 ---
 <table>
   <tr>
-    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
+    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
     <td>
       <h2>👋 ¡Hola, soy Allan Yoltic!</h2>
       <p>
@@ -98,7 +98,7 @@
       Actualmente estoy profundizando en pruebas de software, automatización y análisis de datos. <br/>       
       Con una formación en biónica, tengo una comprensión sólida de la biomecánica, la electrónica y el comportamiento de sistemas, y me entusiasma aplicar ese conocimiento para conectar la tecnología, la salud y la inteligencia artificial.
     </td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/></td>   
+    <td><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/></td>   
   </tr>
 </table>
 
